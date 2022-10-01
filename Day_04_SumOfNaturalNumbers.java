@@ -1,4 +1,4 @@
-//Write a java program to calculate the sum of Natural Numbers
+
 
 import java.io.*;
 class sum
