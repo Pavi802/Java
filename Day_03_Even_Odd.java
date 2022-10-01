@@ -1,4 +1,3 @@
-//Write a java program to check whether a Number is Even or Odd
 import java.io.*;
 class even
 {
