@@ -1,4 +1,3 @@
-//Write a java program to check whether an alphabet is vowel or consonant
 
 import java.io.*;
 class vowel
