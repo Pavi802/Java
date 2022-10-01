@@ -1,4 +1,4 @@
-//write a java program to find the leap year
+
 
 import java.io.*;
 class quadratic
