@@ -1,4 +1,4 @@
-Write a java program to find the ASCII value of a character
+
 
 import java.io.*;
 class ascii
