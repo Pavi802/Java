@@ -1,4 +1,3 @@
-Write a java program to swap two numbers:-
 
 import java.io.*;
 class swap
