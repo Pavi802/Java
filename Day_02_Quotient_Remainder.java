@@ -1,4 +1,4 @@
-Write a java program to compute Quotient and Remainder
+
 
 import java.io.*;
 class qr
