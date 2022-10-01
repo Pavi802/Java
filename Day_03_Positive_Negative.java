@@ -1,4 +1,4 @@
-//write a java program to check the number is positive or negative
+
 
 import java.io.*;
 class pos
